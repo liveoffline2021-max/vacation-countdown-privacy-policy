@@ -112,4 +112,5 @@
 - [Tropical Beach Paradise with Palm Trees](https://wallpapers.com/wallpapers/tropical-beach-paradise-with-palm-trees-stunning-summer-4k-jmjd6ittr7ec6q6t.html)
 - [Banff National Park Scenery](https://wallpapers.com/wallpapers/banff-national-park-scenery-kuvyetkqztq2j9dh.html)
 - [Hawaiian Ukelele Sound Effect](https://pixabay.com/sound-effects/musical-hawaiian-ukelele-pedal-brush-druns-352637/)
+- [Cloudy Sky Sunset With Palm Tree Wallpaper](https://wallpapers.com/wallpapers/palm-trees-beach-relaxing-summer-ktwe8lo44fuxear5.html)
 - [Time and Date Icons](https://www.flaticon.com/free-icons/time-and-date)
