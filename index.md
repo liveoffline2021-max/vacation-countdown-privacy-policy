@@ -87,7 +87,7 @@ This app uses third-party services such as Google AdMob, which have their own pr
 
 **Crash Reporting and Diagnostics**
 
-Driftwood Alarm Clock uses Firebase Crashlytics, a crash reporting service provided by Google, to help identify app crashes, stability issues, and technical errors.
+Vacation Countdown Clock uses Firebase Crashlytics, a crash reporting service provided by Google, to help identify app crashes, stability issues, and technical errors.
 
 Crash reports may include:
 
@@ -145,7 +145,7 @@ If you have questions or concerns about this Privacy Policy, contact us:
 
 **قارير الأعطال والتشخيصات**
 
-يستخدم تطبيق Driftwood Alarm Clock خدمة Firebase Crashlytics، وهي خدمة للإبلاغ عن الأعطال مقدمة من Google، للمساعدة في تحديد أعطال التطبيق ومشكلات الاستقرار والأخطاء التقنية.
+يستخدم تطبيق Vacation Countdown Clock خدمة Firebase Crashlytics، وهي خدمة للإبلاغ عن الأعطال مقدمة من Google، للمساعدة في تحديد أعطال التطبيق ومشكلات الاستقرار والأخطاء التقنية.
 
 قد تتضمن تقارير الأعطال ما يلي:
 
@@ -201,7 +201,7 @@ Vacation Countdown Clock не е предназначено за деца под
 
 ### Докладване на сривове и диагностика
 
-Driftwood Alarm Clock използва Firebase Crashlytics, услуга за докладване на сривове, предоставена от Google, за да помага при идентифицирането на сривове на приложението, проблеми със стабилността и технически грешки.
+Vacation Countdown Clock използва Firebase Crashlytics, услуга за докладване на сривове, предоставена от Google, за да помага при идентифицирането на сривове на приложението, проблеми със стабилността и технически грешки.
 
 Докладите за сривове могат да включват:
 
@@ -258,7 +258,7 @@ Vacation Countdown Clock 13 বছরের কম বয়সী শিশু�
 
 **ক্র্যাশ রিপোর্টিং এবং ডায়াগনস্টিকস**
 
-Driftwood Alarm Clock অ্যাপটি Firebase Crashlytics ব্যবহার করে, যা Google প্রদত্ত একটি ক্র্যাশ রিপোর্টিং পরিষেবা, অ্যাপ ক্র্যাশ, স্থিতিশীলতার সমস্যা এবং প্রযুক্তিগত ত্রুটি শনাক্ত করতে সহায়তা করার জন্য।
+Vacation Countdown Clock অ্যাপটি Firebase Crashlytics ব্যবহার করে, যা Google প্রদত্ত একটি ক্র্যাশ রিপোর্টিং পরিষেবা, অ্যাপ ক্র্যাশ, স্থিতিশীলতার সমস্যা এবং প্রযুক্তিগত ত্রুটি শনাক্ত করতে সহায়তা করার জন্য।
 
 ক্র্যাশ রিপোর্টে অন্তর্ভুক্ত থাকতে পারে:
 
@@ -314,7 +314,7 @@ Denne app bruger tredjepartstjenester såsom Google AdMob, som har deres egne pr
 
 ### Nedbrudsrapportering og diagnostik
 
-Driftwood Alarm Clock bruger Firebase Crashlytics, en nedbrudsrapporteringstjeneste leveret af Google, til at hjælpe med at identificere appnedbrud, stabilitetsproblemer og tekniske fejl.
+Vacation Countdown Clock bruger Firebase Crashlytics, en nedbrudsrapporteringstjeneste leveret af Google, til at hjælpe med at identificere appnedbrud, stabilitetsproblemer og tekniske fejl.
 
 Nedbrudsrapporter kan omfatte:
 
@@ -371,7 +371,7 @@ Diese App verwendet Dienste Dritter wie Google AdMob, die eigene Datenschutzprak
 
 **Absturzberichte und Diagnose**
 
-Driftwood Alarm Clock verwendet Firebase Crashlytics, einen von Google bereitgestellten Dienst zur Absturzberichterstattung, um App-Abstürze, Stabilitätsprobleme und technische Fehler zu identifizieren.
+Vacation Countdown Clock verwendet Firebase Crashlytics, einen von Google bereitgestellten Dienst zur Absturzberichterstattung, um App-Abstürze, Stabilitätsprobleme und technische Fehler zu identifizieren.
 
 Absturzberichte können Folgendes enthalten:
 
@@ -428,7 +428,7 @@ Bei Fragen oder Bedenken zu dieser Datenschutzrichtlinie kontaktieren Sie uns bi
 
 **Αναφορές Σφαλμάτων και Διαγνωστικά**
 
-Το Driftwood Alarm Clock χρησιμοποιεί το Firebase Crashlytics, μια υπηρεσία αναφοράς σφαλμάτων που παρέχεται από την Google, για να βοηθά στον εντοπισμό καταρρεύσεων της εφαρμογής, προβλημάτων σταθερότητας και τεχνικών σφαλμάτων.
+Το Vacation Countdown Clock χρησιμοποιεί το Firebase Crashlytics, μια υπηρεσία αναφοράς σφαλμάτων που παρέχεται από την Google, για να βοηθά στον εντοπισμό καταρρεύσεων της εφαρμογής, προβλημάτων σταθερότητας και τεχνικών σφαλμάτων.
 
 Οι αναφορές σφαλμάτων μπορεί να περιλαμβάνουν:
 
@@ -485,7 +485,7 @@ Esta app utiliza servicios de terceros como Google AdMob, que tienen sus propias
 
 **Informes de fallos y diagnósticos**
 
-Driftwood Alarm Clock utiliza Firebase Crashlytics, un servicio de informes de fallos proporcionado por Google, para ayudar a identificar fallos de la aplicación, problemas de estabilidad y errores técnicos.
+Vacation Countdown Clock utiliza Firebase Crashlytics, un servicio de informes de fallos proporcionado por Google, para ayudar a identificar fallos de la aplicación, problemas de estabilidad y errores técnicos.
 
 Los informes de fallos pueden incluir:
 
@@ -541,7 +541,7 @@ Tämä sovellus käyttää kolmannen osapuolen palveluja, kuten Google AdMobia, 
 
 ### Kaatumisraportointi ja diagnostiikka
 
-Driftwood Alarm Clock käyttää Firebase Crashlyticsia, Googlen tarjoamaa kaatumisraportointipalvelua, sovelluksen kaatumisten, vakausongelmien ja teknisten virheiden tunnistamiseen.
+Vacation Countdown Clock käyttää Firebase Crashlyticsia, Googlen tarjoamaa kaatumisraportointipalvelua, sovelluksen kaatumisten, vakausongelmien ja teknisten virheiden tunnistamiseen.
 
 Kaatumisraportit voivat sisältää:
 
@@ -598,7 +598,7 @@ Cette application utilise des services tiers comme Google AdMob, qui ont leurs p
 
 **Rapports de plantage et diagnostics**
 
-Driftwood Alarm Clock utilise Firebase Crashlytics, un service de rapport de plantage fourni par Google, afin d’aider à identifier les plantages de l’application, les problèmes de stabilité et les erreurs techniques.
+Vacation Countdown Clock utilise Firebase Crashlytics, un service de rapport de plantage fourni par Google, afin d’aider à identifier les plantages de l’application, les problèmes de stabilité et les erreurs techniques.
 
 Les rapports de plantage peuvent inclure :
 
@@ -655,7 +655,7 @@ Vacation Countdown Clock 13 वर्ष से कम उम्र के ब�
 
 **क्रैश रिपोर्टिंग और डायग्नोस्टिक्स**
 
-Driftwood Alarm Clock ऐप Firebase Crashlytics का उपयोग करता है, जो Google द्वारा प्रदान की गई एक क्रैश रिपोर्टिंग सेवा है, ताकि ऐप क्रैश, स्थिरता संबंधी समस्याओं और तकनीकी त्रुटियों की पहचान करने में सहायता मिल सके।
+Vacation Countdown Clock ऐप Firebase Crashlytics का उपयोग करता है, जो Google द्वारा प्रदान की गई एक क्रैश रिपोर्टिंग सेवा है, ताकि ऐप क्रैश, स्थिरता संबंधी समस्याओं और तकनीकी त्रुटियों की पहचान करने में सहायता मिल सके।
 
 क्रैश रिपोर्ट में निम्न शामिल हो सकते हैं:
 
@@ -711,7 +711,7 @@ Ova aplikacija koristi usluge trećih strana poput Google AdMoba, koji imaju vla
 
 ### Prijava rušenja i dijagnostika
 
-Driftwood Alarm Clock koristi Firebase Crashlytics, uslugu za prijavu rušenja koju pruža Google, kako bi pomogao u prepoznavanju rušenja aplikacije, problema sa stabilnošću i tehničkih pogrešaka.
+Vacation Countdown Clock koristi Firebase Crashlytics, uslugu za prijavu rušenja koju pruža Google, kako bi pomogao u prepoznavanju rušenja aplikacije, problema sa stabilnošću i tehničkih pogrešaka.
 
 Izvješća o rušenju mogu uključivati:
 
@@ -767,7 +767,7 @@ Ez az alkalmazás harmadik fél szolgáltatásait használja, például a Google
 
 ### Összeomlás-jelentések és diagnosztika
 
-A Driftwood Alarm Clock a Google által biztosított Firebase Crashlytics összeomlás-jelentő szolgáltatást használja az alkalmazás-összeomlások, stabilitási problémák és technikai hibák azonosítására.
+A Vacation Countdown Clock a Google által biztosított Firebase Crashlytics összeomlás-jelentő szolgáltatást használja az alkalmazás-összeomlások, stabilitási problémák és technikai hibák azonosítására.
 
 Az összeomlási jelentések tartalmazhatják:
 
@@ -823,7 +823,7 @@ Vacation Countdown Clock-ը նախատեսված չէ 13 տարեկանից փո
 
 ### Խափանումների հաշվետվություններ և ախտորոշում
 
-Driftwood Alarm Clock-ը օգտագործում է Firebase Crashlytics՝ Google-ի կողմից տրամադրվող խափանումների հաշվետվությունների ծառայություն, հավելվածի խափանումները, կայունության խնդիրները և տեխնիկական սխալները հայտնաբերելու համար։
+Vacation Countdown Clock-ը օգտագործում է Firebase Crashlytics՝ Google-ի կողմից տրամադրվող խափանումների հաշվետվությունների ծառայություն, հավելվածի խափանումները, կայունության խնդիրները և տեխնիկական սխալները հայտնաբերելու համար։
 
 Խափանումների հաշվետվությունները կարող են ներառել՝
 
@@ -877,7 +877,7 @@ Vacation Countdown Clock er ekki ætlað börnum yngri en 13 ára og við söfnu
 
 ### Hrunskýrslur og greiningar
 
-Driftwood Alarm Clock notar Firebase Crashlytics, þjónustu frá Google fyrir hrunskýrslur, til að hjálpa við að greina hrun forritsins, stöðugleikavandamál og tæknilegar villur.
+Vacation Countdown Clock notar Firebase Crashlytics, þjónustu frá Google fyrir hrunskýrslur, til að hjálpa við að greina hrun forritsins, stöðugleikavandamál og tæknilegar villur.
 
 Hrunskýrslur geta innihaldið:
 
@@ -934,7 +934,7 @@ Questa app utilizza servizi di terze parti come Google AdMob, che hanno le propr
 
 **Segnalazione arresti anomali e diagnostica**
 
-Driftwood Alarm Clock utilizza Firebase Crashlytics, un servizio di segnalazione arresti anomali fornito da Google, per aiutare a identificare crash dell’app, problemi di stabilità ed errori tecnici.
+Vacation Countdown Clock utilizza Firebase Crashlytics, un servizio di segnalazione arresti anomali fornito da Google, per aiutare a identificare crash dell’app, problemi di stabilità ed errori tecnici.
 
 I rapporti sugli arresti anomali possono includere:
 
@@ -991,7 +991,7 @@ Vacation Countdown Clockは13歳未満の子供向けではなく、子供のデ
 
 **クラッシュレポートと診断**
 
-Driftwood Alarm Clock は、Google が提供するクラッシュレポートサービス Firebase Crashlytics を使用して、アプリのクラッシュ、安定性の問題、および技術的エラーの特定を支援しています。
+Vacation Countdown Clock は、Google が提供するクラッシュレポートサービス Firebase Crashlytics を使用して、アプリのクラッシュ、安定性の問題、および技術的エラーの特定を支援しています。
 
 クラッシュレポートには、以下が含まれる場合があります：
 
@@ -1048,7 +1048,7 @@ Vacation Countdown Clock는 13세 미만 어린이를 대상으로 하지 않으
 
 **충돌 보고 및 진단**
 
-Driftwood Alarm Clock은 Google에서 제공하는 충돌 보고 서비스인 Firebase Crashlytics를 사용하여 앱 충돌, 안정성 문제 및 기술적 오류를 식별하는 데 도움을 줍니다.
+Vacation Countdown Clock은 Google에서 제공하는 충돌 보고 서비스인 Firebase Crashlytics를 사용하여 앱 충돌, 안정성 문제 및 기술적 오류를 식별하는 데 도움을 줍니다.
 
 충돌 보고서에는 다음 정보가 포함될 수 있습니다:
 
@@ -1102,7 +1102,7 @@ Vacation Countdown Clock nėra skirtas vaikams iki 13 metų, ir mes sąmoningai 
 
 ### Strigčių ataskaitos ir diagnostika
 
-„Driftwood Alarm Clock“ naudoja „Firebase Crashlytics“ – „Google“ teikiamą strigčių ataskaitų paslaugą, padedančią nustatyti programėlės strigtis, stabilumo problemas ir technines klaidas.
+„Vacation Countdown Clock“ naudoja „Firebase Crashlytics“ – „Google“ teikiamą strigčių ataskaitų paslaugą, padedančią nustatyti programėlės strigtis, stabilumo problemas ir technines klaidas.
 
 Strigčių ataskaitose gali būti:
 
@@ -1156,7 +1156,7 @@ Vacation Countdown Clock не е наменет за деца под 13 годи
 
 ### Известување за падови и дијагностика
 
-Driftwood Alarm Clock користи Firebase Crashlytics, услуга за известување за падови обезбедена од Google, за да помогне во идентификување на падови на апликацијата, проблеми со стабилноста и технички грешки.
+Vacation Countdown Clock користи Firebase Crashlytics, услуга за известување за падови обезбедена од Google, за да помогне во идентификување на падови на апликацијата, проблеми со стабилноста и технички грешки.
 
 Извештаите за падови може да вклучуваат:
 
@@ -1210,7 +1210,7 @@ Denne appen bruker tredjepartstjenester som Google AdMob, som har sine egne retn
 
 ### Krasjrapportering og diagnostikk
 
-Driftwood Alarm Clock bruker Firebase Crashlytics, en krasjrapporteringstjeneste levert av Google, for å hjelpe med å identifisere appkrasj, stabilitetsproblemer og tekniske feil.
+Vacation Countdown Clock bruker Firebase Crashlytics, en krasjrapporteringstjeneste levert av Google, for å hjelpe med å identifisere appkrasj, stabilitetsproblemer og tekniske feil.
 
 Krasjrapporter kan inkludere:
 
@@ -1267,7 +1267,7 @@ Deze app gebruikt diensten van derden zoals Google AdMob, die hun eigen privacyp
 
 **Crashrapportage en diagnostiek**
 
-Driftwood Alarm Clock gebruikt Firebase Crashlytics, een crashrapportageservice van Google, om appcrashes, stabiliteitsproblemen en technische fouten te helpen identificeren.
+Vacation Countdown Clock gebruikt Firebase Crashlytics, een crashrapportageservice van Google, om appcrashes, stabiliteitsproblemen en technische fouten te helpen identificeren.
 
 Crashrapporten kunnen het volgende bevatten:
 
@@ -1324,7 +1324,7 @@ Aplikacja korzysta z usług osób trzecich, takich jak Google AdMob, które maj�
 
 **Raportowanie awarii i diagnostyka**
 
-Driftwood Alarm Clock korzysta z Firebase Crashlytics, usługi raportowania awarii dostarczanej przez Google, aby pomagać w identyfikowaniu awarii aplikacji, problemów ze stabilnością i błędów technicznych.
+Vacation Countdown Clock korzysta z Firebase Crashlytics, usługi raportowania awarii dostarczanej przez Google, aby pomagać w identyfikowaniu awarii aplikacji, problemów ze stabilnością i błędów technicznych.
 
 Raporty o awariach mogą obejmować:
 
@@ -1381,7 +1381,7 @@ Este app usa serviços de terceiros como o Google AdMob, que possuem suas própr
 
 **Relatórios de falhas e diagnósticos**
 
-O Driftwood Alarm Clock utiliza o Firebase Crashlytics, um serviço de relatórios de falhas fornecido pela Google, para ajudar a identificar falhas da aplicação, problemas de estabilidade e erros técnicos.
+O Vacation Countdown Clock utiliza o Firebase Crashlytics, um serviço de relatórios de falhas fornecido pela Google, para ajudar a identificar falhas da aplicação, problemas de estabilidade e erros técnicos.
 
 Os relatórios de falhas podem incluir:
 
@@ -1438,7 +1438,7 @@ Această aplicație utilizează servicii terțe precum Google AdMob, care au pro
 
 **Raportare a blocărilor și diagnosticare**
 
-Driftwood Alarm Clock utilizează Firebase Crashlytics, un serviciu de raportare a blocărilor furnizat de Google, pentru a ajuta la identificarea blocărilor aplicației, problemelor de stabilitate și erorilor tehnice.
+Vacation Countdown Clock utilizează Firebase Crashlytics, un serviciu de raportare a blocărilor furnizat de Google, pentru a ajuta la identificarea blocărilor aplicației, problemelor de stabilitate și erorilor tehnice.
 
 Rapoartele de blocare pot include:
 
@@ -1495,7 +1495,7 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 
 **Отчёты о сбоях и диагностика**
 
-Driftwood Alarm Clock использует Firebase Crashlytics — сервис отчётов о сбоях, предоставляемый Google, — чтобы помогать выявлять сбои приложения, проблемы со стабильностью и технические ошибки.
+Vacation Countdown Clock использует Firebase Crashlytics — сервис отчётов о сбоях, предоставляемый Google, — чтобы помогать выявлять сбои приложения, проблемы со стабильностью и технические ошибки.
 
 Отчёты о сбоях могут включать:
 
@@ -1549,7 +1549,7 @@ Táto aplikácia používa služby tretích strán, ako je Google AdMob, ktoré 
 
 ### Hlásenie zlyhaní a diagnostika
 
-Driftwood Alarm Clock používa Firebase Crashlytics, službu na hlásenie zlyhaní poskytovanú spoločnosťou Google, na pomoc pri identifikácii zlyhaní aplikácie, problémov so stabilitou a technických chýb.
+Vacation Countdown Clock používa Firebase Crashlytics, službu na hlásenie zlyhaní poskytovanú spoločnosťou Google, na pomoc pri identifikácii zlyhaní aplikácie, problémov so stabilitou a technických chýb.
 
 Hlásenia o zlyhaní môžu obsahovať:
 
@@ -1603,7 +1603,7 @@ Ta aplikacija uporablja storitve tretjih oseb, kot je Google AdMob, ki imajo svo
 
 ### Poročanje o zrušitvah in diagnostika
 
-Driftwood Alarm Clock uporablja Firebase Crashlytics, storitev za poročanje o zrušitvah, ki jo zagotavlja Google, za pomoč pri prepoznavanju zrušitev aplikacije, težav s stabilnostjo in tehničnih napak.
+Vacation Countdown Clock uporablja Firebase Crashlytics, storitev za poročanje o zrušitvah, ki jo zagotavlja Google, za pomoč pri prepoznavanju zrušitev aplikacije, težav s stabilnostjo in tehničnih napak.
 
 Poročila o zrušitvah lahko vključujejo:
 
@@ -1657,7 +1657,7 @@ Denna app använder tredjepartstjänster såsom Google AdMob, som har sina egna 
 
 ### Kraschrapportering och diagnostik
 
-Driftwood Alarm Clock använder Firebase Crashlytics, en tjänst för kraschrapportering från Google, för att hjälpa till att identifiera appkrascher, stabilitetsproblem och tekniska fel.
+Vacation Countdown Clock använder Firebase Crashlytics, en tjänst för kraschrapportering från Google, för att hjälpa till att identifiera appkrascher, stabilitetsproblem och tekniska fel.
 
 Kraschrapporter kan innehålla:
 
@@ -1714,7 +1714,7 @@ Vacation Countdown Clock не призначений для дітей до 13 �
 
 **Звіти про збої та діагностика**
 
-Driftwood Alarm Clock використовує Firebase Crashlytics — сервіс звітів про збої, наданий Google, — щоб допомагати виявляти збої застосунку, проблеми зі стабільністю та технічні помилки.
+Vacation Countdown Clock використовує Firebase Crashlytics — сервіс звітів про збої, наданий Google, — щоб допомагати виявляти збої застосунку, проблеми зі стабільністю та технічні помилки.
 
 Звіти про збої можуть містити:
 
