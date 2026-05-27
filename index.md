@@ -2,8 +2,6 @@
 
 **Effective Date:** March 26, 2026
 
-Your privacy is important. Vacation Countdown Clock is designed **not to collect or store personal information**.
-
 ## US State Privacy Rights
 
 If you are a resident of California, Virginia, or Colorado, you may have the right to opt out of the sale of your personal information. For information on how Google collects and uses your data for personalized ads, please visit [Google Ads Settings](https://www.google.com/settings/ads).
@@ -87,6 +85,19 @@ Vacation Countdown Clock is not intended for children under 13, and we do not kn
 **Third-Party Services**  
 This app uses third-party services such as Google AdMob, which have their own privacy practices. For more information, please see the [Google Privacy Policy](https://policies.google.com/privacy).
 
+**Crash Reporting and Diagnostics**
+
+Driftwood Alarm Clock uses Firebase Crashlytics, a crash reporting service provided by Google, to help identify app crashes, stability issues, and technical errors.
+
+Crash reports may include:
+
+Device type and operating system version
+App version
+Technical diagnostic information
+Information related to the state of the app at the time of a crash
+
+This information is used solely to improve app reliability, stability, and performance. We do not use crash reporting data to identify users personally.
+
 **Updates to This Privacy Policy**  
 We may update this Privacy Policy occasionally. The latest version will always be accessible within the app.
 
@@ -132,6 +143,19 @@ If you have questions or concerns about this Privacy Policy, contact us:
 **الخدمات التابعة لأطراف ثالثة**  
 يستخدم هذا التطبيق خدمات طرف ثالث مثل Google AdMob، والتي لها ممارساتها الخاصة بالخصوصية. لمزيد من المعلومات، يرجى مراجعة [سياسة خصوصية Google](https://policies.google.com/privacy).
 
+**قارير الأعطال والتشخيصات**
+
+يستخدم تطبيق Driftwood Alarm Clock خدمة Firebase Crashlytics، وهي خدمة للإبلاغ عن الأعطال مقدمة من Google، للمساعدة في تحديد أعطال التطبيق ومشكلات الاستقرار والأخطاء التقنية.
+
+قد تتضمن تقارير الأعطال ما يلي:
+
+نوع الجهاز وإصدار نظام التشغيل
+إصدار التطبيق
+معلومات تشخيصية تقنية
+معلومات متعلقة بحالة التطبيق وقت حدوث العطل
+
+تُستخدم هذه المعلومات فقط لتحسين موثوقية التطبيق واستقراره وأدائه. نحن لا نستخدم بيانات تقارير الأعطال لتحديد هوية المستخدمين شخصيًا.
+
 **تحديثات سياسة الخصوصية**  
 قد نقوم بتحديث هذه السياسة من حين لآخر. النسخة الأحدث ستكون دائمًا متاحة داخل التطبيق.
 
@@ -174,6 +198,19 @@ Vacation Countdown Clock не е предназначено за деца под
 
 ### Услуги на трети страни
 Това приложение използва услуги на трети страни като Google AdMob, които имат свои собствени практики за поверителност. За повече информация, моля, вижте [Политиката за поверителност на Google](https://policies.google.com/privacy).
+
+### Докладване на сривове и диагностика
+
+Driftwood Alarm Clock използва Firebase Crashlytics, услуга за докладване на сривове, предоставена от Google, за да помага при идентифицирането на сривове на приложението, проблеми със стабилността и технически грешки.
+
+Докладите за сривове могат да включват:
+
+Тип устройство и версия на операционната система
+Версия на приложението
+Техническа диагностична информация
+Информация, свързана със състоянието на приложението по време на срива
+
+Тази информация се използва единствено за подобряване на надеждността, стабилността и производителността на приложението. Не използваме данните от докладите за сривове за лично идентифициране на потребителите.
 
 ### Актуализации на тази политика за поверителност
 Можем периодично да актуализираме тази Политика за поверителност. Най-новата версия винаги ще бъде достъпна в приложението.
@@ -219,6 +256,19 @@ Vacation Countdown Clock 13 বছরের কম বয়সী শিশু�
 **তৃতীয় পক্ষের সেবা**  
 এই অ্যাপটি Google AdMob এর মতো তৃতীয় পক্ষের সেবা ব্যবহার করে, যার নিজস্ব গোপনীয়তা নীতি আছে। আরও তথ্যের জন্য দেখুন [Google Privacy Policy](https://policies.google.com/privacy)।
 
+**ক্র্যাশ রিপোর্টিং এবং ডায়াগনস্টিকস**
+
+Driftwood Alarm Clock অ্যাপটি Firebase Crashlytics ব্যবহার করে, যা Google প্রদত্ত একটি ক্র্যাশ রিপোর্টিং পরিষেবা, অ্যাপ ক্র্যাশ, স্থিতিশীলতার সমস্যা এবং প্রযুক্তিগত ত্রুটি শনাক্ত করতে সহায়তা করার জন্য।
+
+ক্র্যাশ রিপোর্টে অন্তর্ভুক্ত থাকতে পারে:
+
+ডিভাইসের ধরন এবং অপারেটিং সিস্টেমের সংস্করণ
+অ্যাপের সংস্করণ
+প্রযুক্তিগত ডায়াগনস্টিক তথ্য
+ক্র্যাশের সময় অ্যাপের অবস্থার সাথে সম্পর্কিত তথ্য
+
+এই তথ্য শুধুমাত্র অ্যাপের নির্ভরযোগ্যতা, স্থিতিশীলতা এবং কর্মক্ষমতা উন্নত করার জন্য ব্যবহৃত হয়। আমরা ব্যবহারকারীদের ব্যক্তিগতভাবে শনাক্ত করতে ক্র্যাশ রিপোর্টিং ডেটা ব্যবহার করি না।
+
 **গোপনীয়তা নীতির হালনাগাদ**  
 আমরা সময়ে সময়ে এই গোপনীয়তা নীতি আপডেট করতে পারি। সর্বশেষ সংস্করণটি সর্বদা অ্যাপে উপলব্ধ থাকবে।
 
@@ -261,6 +311,19 @@ Vacation Countdown Clock er ikke beregnet til børn under 13 år, og vi indsamle
 
 ### Tjenester fra tredjepart
 Denne app bruger tredjepartstjenester såsom Google AdMob, som har deres egne privatlivspraksisser. For mere information, se venligst [Googles privatlivspolitik](https://policies.google.com/privacy).
+
+### Nedbrudsrapportering og diagnostik
+
+Driftwood Alarm Clock bruger Firebase Crashlytics, en nedbrudsrapporteringstjeneste leveret af Google, til at hjælpe med at identificere appnedbrud, stabilitetsproblemer og tekniske fejl.
+
+Nedbrudsrapporter kan omfatte:
+
+Enhedstype og operativsystemversion
+Appversion
+Tekniske diagnoseoplysninger
+Oplysninger om appens tilstand på tidspunktet for nedbruddet
+
+Disse oplysninger bruges udelukkende til at forbedre appens pålidelighed, stabilitet og ydeevne. Vi bruger ikke nedbrudsdata til personligt at identificere brugere.
 
 ### Opdateringer af denne privatlivspolitik
 Vi kan lejlighedsvis opdatere denne privatlivspolitik. Den nyeste version vil altid være tilgængelig i appen.
@@ -306,6 +369,19 @@ Vacation Countdown Clock ist nicht für Kinder unter 13 Jahren gedacht, und wir 
 **Dienste Dritter**  
 Diese App verwendet Dienste Dritter wie Google AdMob, die eigene Datenschutzpraktiken haben. Weitere Informationen finden Sie in der [Google Privacy Policy](https://policies.google.com/privacy).
 
+**Absturzberichte und Diagnose**
+
+Driftwood Alarm Clock verwendet Firebase Crashlytics, einen von Google bereitgestellten Dienst zur Absturzberichterstattung, um App-Abstürze, Stabilitätsprobleme und technische Fehler zu identifizieren.
+
+Absturzberichte können Folgendes enthalten:
+
+Gerätetyp und Betriebssystemversion
+App-Version
+Technische Diagnoseinformationen
+Informationen zum Zustand der App zum Zeitpunkt des Absturzes
+
+Diese Informationen werden ausschließlich verwendet, um die Zuverlässigkeit, Stabilität und Leistung der App zu verbessern. Wir verwenden Absturzberichtsdaten nicht, um Nutzer persönlich zu identifizieren.
+
 **Aktualisierungen dieser Datenschutzbestimmungen**  
 Wir können diese Datenschutzbestimmungen gelegentlich aktualisieren. Die neueste Version ist immer in der App verfügbar.
 
@@ -349,6 +425,19 @@ Bei Fragen oder Bedenken zu dieser Datenschutzrichtlinie kontaktieren Sie uns bi
 
 **Υπηρεσίες Τρίτων**  
 Αυτή η εφαρμογή χρησιμοποιεί υπηρεσίες τρίτων, όπως το Google AdMob, οι οποίες έχουν τις δικές τους πρακτικές απορρήτου. Για περισσότερες πληροφορίες, ανατρέξτε στην [Πολιτική Απορρήτου της Google](https://policies.google.com/privacy).
+
+**Αναφορές Σφαλμάτων και Διαγνωστικά**
+
+Το Driftwood Alarm Clock χρησιμοποιεί το Firebase Crashlytics, μια υπηρεσία αναφοράς σφαλμάτων που παρέχεται από την Google, για να βοηθά στον εντοπισμό καταρρεύσεων της εφαρμογής, προβλημάτων σταθερότητας και τεχνικών σφαλμάτων.
+
+Οι αναφορές σφαλμάτων μπορεί να περιλαμβάνουν:
+
+Τύπο συσκευής και έκδοση λειτουργικού συστήματος
+Έκδοση εφαρμογής
+Τεχνικές διαγνωστικές πληροφορίες
+Πληροφορίες σχετικά με την κατάσταση της εφαρμογής κατά τη στιγμή της κατάρρευσης
+
+Αυτές οι πληροφορίες χρησιμοποιούνται αποκλειστικά για τη βελτίωση της αξιοπιστίας, της σταθερότητας και της απόδοσης της εφαρμογής. Δεν χρησιμοποιούμε δεδομένα αναφορών σφαλμάτων για την προσωπική αναγνώριση χρηστών.
 
 **Ενημερώσεις στην Πολιτική Απορρήτου**  
 Ενδέχεται να ενημερώνουμε αυτήν την Πολιτική Απορρήτου κατά καιρούς. Η πιο πρόσφατη έκδοση θα είναι πάντα διαθέσιμη μέσα στην εφαρμογή.
@@ -394,6 +483,19 @@ Vacation Countdown Clock no está dirigido a menores de 13 años y no recopilamo
 **Servicios de Terceros**  
 Esta app utiliza servicios de terceros como Google AdMob, que tienen sus propias prácticas de privacidad. Más información: [Google Privacy Policy](https://policies.google.com/privacy)
 
+**Informes de fallos y diagnósticos**
+
+Driftwood Alarm Clock utiliza Firebase Crashlytics, un servicio de informes de fallos proporcionado por Google, para ayudar a identificar fallos de la aplicación, problemas de estabilidad y errores técnicos.
+
+Los informes de fallos pueden incluir:
+
+Tipo de dispositivo y versión del sistema operativo
+Versión de la aplicación
+Información técnica de diagnóstico
+Información relacionada con el estado de la aplicación en el momento del fallo
+
+Esta información se utiliza únicamente para mejorar la fiabilidad, estabilidad y rendimiento de la aplicación. No utilizamos los datos de informes de fallos para identificar personalmente a los usuarios.
+
 **Actualizaciones de esta Política de Privacidad**  
 Podemos actualizar esta política ocasionalmente. La versión más reciente siempre estará accesible en la app.
 
@@ -436,6 +538,19 @@ Vacation Countdown Clock ei ole tarkoitettu alle 13-vuotiaille lapsille, emmekä
 
 ### Kolmannen osapuolen palvelut
 Tämä sovellus käyttää kolmannen osapuolen palveluja, kuten Google AdMobia, joilla on omat tietosuojakäytäntönsä. Lisätietoja löytyy osoitteesta [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Kaatumisraportointi ja diagnostiikka
+
+Driftwood Alarm Clock käyttää Firebase Crashlyticsia, Googlen tarjoamaa kaatumisraportointipalvelua, sovelluksen kaatumisten, vakausongelmien ja teknisten virheiden tunnistamiseen.
+
+Kaatumisraportit voivat sisältää:
+
+Laitetyypin ja käyttöjärjestelmän version
+Sovelluksen version
+Teknisiä diagnostiikkatietoja
+Tietoja sovelluksen tilasta kaatumisen aikana
+
+Näitä tietoja käytetään ainoastaan sovelluksen luotettavuuden, vakauden ja suorituskyvyn parantamiseen. Emme käytä kaatumisraporttitietoja käyttäjien henkilökohtaiseen tunnistamiseen.
 
 ### Tietosuojakäytännön päivitykset
 Saatamme päivittää tätä tietosuojakäytäntöä ajoittain. Uusin versio on aina saatavilla sovelluksessa.
@@ -481,6 +596,19 @@ Vacation Countdown Clock n’est pas destiné aux enfants de moins de 13 ans et 
 **Services tiers**  
 Cette application utilise des services tiers comme Google AdMob, qui ont leurs propres pratiques de confidentialité. Plus d’informations: [Google Privacy Policy](https://policies.google.com/privacy)
 
+**Rapports de plantage et diagnostics**
+
+Driftwood Alarm Clock utilise Firebase Crashlytics, un service de rapport de plantage fourni par Google, afin d’aider à identifier les plantages de l’application, les problèmes de stabilité et les erreurs techniques.
+
+Les rapports de plantage peuvent inclure :
+
+Le type d’appareil et la version du système d’exploitation
+La version de l’application
+Des informations techniques de diagnostic
+Des informations liées à l’état de l’application au moment du plantage
+
+Ces informations sont utilisées uniquement pour améliorer la fiabilité, la stabilité et les performances de l’application. Nous n’utilisons pas les données de rapport de plantage pour identifier personnellement les utilisateurs.
+
 **Mises à jour de cette politique**  
 Nous pouvons mettre à jour cette politique de temps en temps. La dernière version sera toujours accessible dans l’app.
 
@@ -525,6 +653,19 @@ Vacation Countdown Clock 13 वर्ष से कम उम्र के ब�
 **तीसरे पक्ष की सेवाएं**  
 यह ऐप Google AdMob जैसी तृतीय-पक्ष सेवाओं का उपयोग करता है, जिनकी अपनी गोपनीयता नीतियां हैं। अधिक जानकारी के लिए देखें: [Google Privacy Policy](https://policies.google.com/privacy)
 
+**क्रैश रिपोर्टिंग और डायग्नोस्टिक्स**
+
+Driftwood Alarm Clock ऐप Firebase Crashlytics का उपयोग करता है, जो Google द्वारा प्रदान की गई एक क्रैश रिपोर्टिंग सेवा है, ताकि ऐप क्रैश, स्थिरता संबंधी समस्याओं और तकनीकी त्रुटियों की पहचान करने में सहायता मिल सके।
+
+क्रैश रिपोर्ट में निम्न शामिल हो सकते हैं:
+
+डिवाइस का प्रकार और ऑपरेटिंग सिस्टम का संस्करण
+ऐप का संस्करण
+तकनीकी डायग्नोस्टिक जानकारी
+क्रैश के समय ऐप की स्थिति से संबंधित जानकारी
+
+इस जानकारी का उपयोग केवल ऐप की विश्वसनीयता, स्थिरता और प्रदर्शन में सुधार के लिए किया जाता है। हम उपयोगकर्ताओं की व्यक्तिगत पहचान के लिए क्रैश रिपोर्टिंग डेटा का उपयोग नहीं करते हैं।
+
 **गोपनीयता नीति में अद्यतन**  
 हम समय-समय पर इस नीति को अपडेट कर सकते हैं। नवीनतम संस्करण हमेशा ऐप में उपलब्ध रहेगा।
 
@@ -567,6 +708,19 @@ Vacation Countdown Clock nije namijenjen djeci mlađoj od 13 godina, i ne prikup
 
 ### Usluge trećih strana
 Ova aplikacija koristi usluge trećih strana poput Google AdMoba, koji imaju vlastite prakse privatnosti. Za više informacija pogledajte [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Prijava rušenja i dijagnostika
+
+Driftwood Alarm Clock koristi Firebase Crashlytics, uslugu za prijavu rušenja koju pruža Google, kako bi pomogao u prepoznavanju rušenja aplikacije, problema sa stabilnošću i tehničkih pogrešaka.
+
+Izvješća o rušenju mogu uključivati:
+
+Vrstu uređaja i verziju operativnog sustava
+Verziju aplikacije
+Tehničke dijagnostičke informacije
+Informacije povezane sa stanjem aplikacije u trenutku rušenja
+
+Ove se informacije koriste isključivo za poboljšanje pouzdanosti, stabilnosti i performansi aplikacije. Ne koristimo podatke iz izvješća o rušenju za osobnu identifikaciju korisnika.
 
 ### Ažuriranja ove politike privatnosti
 Povremeno možemo ažurirati ovu politiku privatnosti. Najnovija verzija uvijek će biti dostupna unutar aplikacije.
@@ -611,6 +765,19 @@ A Vacation Countdown Clock nem gyermekeknek, 13 év alattiaknak készült, és n
 ### Harmadik fél szolgáltatásai
 Ez az alkalmazás harmadik fél szolgáltatásait használja, például a Google AdMob-ot, amelyeknek saját adatvédelmi gyakorlataik vannak. További információért tekintse meg a [Google Privacy Policy](https://policies.google.com/privacy) dokumentumot.
 
+### Összeomlás-jelentések és diagnosztika
+
+A Driftwood Alarm Clock a Google által biztosított Firebase Crashlytics összeomlás-jelentő szolgáltatást használja az alkalmazás-összeomlások, stabilitási problémák és technikai hibák azonosítására.
+
+Az összeomlási jelentések tartalmazhatják:
+
+Az eszköz típusát és az operációs rendszer verzióját
+Az alkalmazás verzióját
+Technikai diagnosztikai információkat
+Az alkalmazás állapotára vonatkozó információkat az összeomlás időpontjában
+
+Ezeket az információkat kizárólag az alkalmazás megbízhatóságának, stabilitásának és teljesítményének javítására használjuk. Az összeomlási adatokat nem használjuk a felhasználók személyes azonosítására.
+
 ### Adatvédelmi irányelvek frissítése
 Időnként frissíthetjük ezt az adatvédelmi irányelvet. A legfrissebb verzió mindig elérhető lesz az alkalmazáson belül.
 
@@ -654,6 +821,19 @@ Vacation Countdown Clock-ը նախատեսված չէ 13 տարեկանից փո
 ### Երրորդ կողմի ծառայություններ  
 Այս հավելվածը օգտագործում է երրորդ կողմի ծառայություններ, ինչպիսիք են Google AdMob-ը, որոնք ունեն իրենց գաղտնիության քաղաքականությունները: Լրացուցիչ տեղեկությունների համար տես [Google Privacy Policy](https://policies.google.com/privacy):
 
+### Խափանումների հաշվետվություններ և ախտորոշում
+
+Driftwood Alarm Clock-ը օգտագործում է Firebase Crashlytics՝ Google-ի կողմից տրամադրվող խափանումների հաշվետվությունների ծառայություն, հավելվածի խափանումները, կայունության խնդիրները և տեխնիկական սխալները հայտնաբերելու համար։
+
+Խափանումների հաշվետվությունները կարող են ներառել՝
+
+Սարքի տեսակը և օպերացիոն համակարգի տարբերակը
+Հավելվածի տարբերակը
+Տեխնիկական ախտորոշիչ տեղեկություններ
+Տեղեկություններ հավելվածի վիճակի մասին խափանման պահին
+
+Այս տեղեկությունները օգտագործվում են միայն հավելվածի հուսալիությունը, կայունությունը և արդյունավետությունը բարելավելու համար։ Մենք խափանումների տվյալները չենք օգտագործում օգտատերերին անձամբ նույնականացնելու նպատակով։
+
 ### Գաղտնիության քաղաքականության թարմացումներ  
 Մենք ժամանակ առ ժամանակ կարող ենք թարմացնել այս գաղտնիության քաղաքականությունը: Վերջին տարբերակը միշտ հասանելի կլինի հավելվածում:
 
@@ -694,6 +874,19 @@ Vacation Countdown Clock er ekki ætlað börnum yngri en 13 ára og við söfnu
 
 ### Þriðja aðila þjónusta  
 Þetta forrit notar þjónustu þriðja aðila eins og Google AdMob, sem hafa sínar eigin persónuverndarstefnur. Fyrir frekari upplýsingar, sjáðu [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Hrunskýrslur og greiningar
+
+Driftwood Alarm Clock notar Firebase Crashlytics, þjónustu frá Google fyrir hrunskýrslur, til að hjálpa við að greina hrun forritsins, stöðugleikavandamál og tæknilegar villur.
+
+Hrunskýrslur geta innihaldið:
+
+Tegund tækis og útgáfu stýrikerfis
+Útgáfu forritsins
+Tæknilegar greiningarupplýsingar
+Upplýsingar tengdar stöðu forritsins þegar hrunið átti sér stað
+
+Þessar upplýsingar eru eingöngu notaðar til að bæta áreiðanleika, stöðugleika og afköst forritsins. Við notum ekki gögn úr hrunskýrslum til að persónugreina notendur.
 
 ### Uppfærslur á þessari gagnaverndarstefnu  
 Við getum uppfært þessa gagnaverndarstefnu öðru hvoru. Nýjasta útgáfan verður alltaf aðgengileg innan appsins.
@@ -739,6 +932,19 @@ La Vacation Countdown Clock non è destinata a bambini sotto i 13 anni e non rac
 **Servizi di terze parti**  
 Questa app utilizza servizi di terze parti come Google AdMob, che hanno le proprie politiche sulla privacy. Ulteriori informazioni: [Google Privacy Policy](https://policies.google.com/privacy)
 
+**Segnalazione arresti anomali e diagnostica**
+
+Driftwood Alarm Clock utilizza Firebase Crashlytics, un servizio di segnalazione arresti anomali fornito da Google, per aiutare a identificare crash dell’app, problemi di stabilità ed errori tecnici.
+
+I rapporti sugli arresti anomali possono includere:
+
+Tipo di dispositivo e versione del sistema operativo
+Versione dell’app
+Informazioni diagnostiche tecniche
+Informazioni relative allo stato dell’app al momento del crash
+
+Queste informazioni vengono utilizzate esclusivamente per migliorare affidabilità, stabilità e prestazioni dell’app. Non utilizziamo i dati dei rapporti sugli arresti anomali per identificare personalmente gli utenti.
+
 **Aggiornamenti della politica**  
 Potremmo aggiornare la presente politica di tanto in tanto. L’ultima versione sarà sempre disponibile nell’app.
 
@@ -782,6 +988,19 @@ Vacation Countdown Clockは13歳未満の子供向けではなく、子供のデ
 
 **サードパーティサービス**  
 本アプリはGoogle AdMobなどのサードパーティサービスを利用しています。詳細は[Google Privacy Policy](https://policies.google.com/privacy)をご覧ください。
+
+**クラッシュレポートと診断**
+
+Driftwood Alarm Clock は、Google が提供するクラッシュレポートサービス Firebase Crashlytics を使用して、アプリのクラッシュ、安定性の問題、および技術的エラーの特定を支援しています。
+
+クラッシュレポートには、以下が含まれる場合があります：
+
+デバイスの種類およびオペレーティングシステムのバージョン
+アプリのバージョン
+技術的な診断情報
+クラッシュ発生時のアプリの状態に関する情報
+
+この情報は、アプリの信頼性、安定性、およびパフォーマンスを向上させる目的でのみ使用されます。クラッシュレポートデータを使用してユーザーを個人的に特定することはありません。
 
 **プライバシーポリシーの更新**  
 プライバシーポリシーは随時更新される場合があります。最新バージョンは常にアプリ内で確認できます。
@@ -827,6 +1046,19 @@ Vacation Countdown Clock는 13세 미만 어린이를 대상으로 하지 않으
 **제3자 서비스**  
 이 앱은 Google AdMob과 같은 제3자 서비스를 사용하며, 각자의 개인정보 보호정책을 가지고 있습니다. 자세한 정보: [Google Privacy Policy](https://policies.google.com/privacy)
 
+**충돌 보고 및 진단**
+
+Driftwood Alarm Clock은 Google에서 제공하는 충돌 보고 서비스인 Firebase Crashlytics를 사용하여 앱 충돌, 안정성 문제 및 기술적 오류를 식별하는 데 도움을 줍니다.
+
+충돌 보고서에는 다음 정보가 포함될 수 있습니다:
+
+기기 유형 및 운영체제 버전
+앱 버전
+기술적 진단 정보
+충돌 발생 시점의 앱 상태와 관련된 정보
+
+이 정보는 앱의 신뢰성, 안정성 및 성능을 개선하기 위한 목적으로만 사용됩니다. 당사는 충돌 보고 데이터를 사용하여 사용자를 개인적으로 식별하지 않습니다.
+
 **개인정보 처리방침 업데이트**  
 이 개인정보 처리방침은 수시로 업데이트될 수 있습니다. 최신 버전은 항상 앱에서 확인할 수 있습니다.
 
@@ -867,6 +1099,19 @@ Vacation Countdown Clock nėra skirtas vaikams iki 13 metų, ir mes sąmoningai 
 
 ### Trečiųjų šalių paslaugos  
 Ši programa naudoja trečiųjų šalių paslaugas, tokias kaip Google AdMob, kurios turi savo privatumo praktikas. Daugiau informacijos rasite čia: [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Strigčių ataskaitos ir diagnostika
+
+„Driftwood Alarm Clock“ naudoja „Firebase Crashlytics“ – „Google“ teikiamą strigčių ataskaitų paslaugą, padedančią nustatyti programėlės strigtis, stabilumo problemas ir technines klaidas.
+
+Strigčių ataskaitose gali būti:
+
+Įrenginio tipas ir operacinės sistemos versija
+Programėlės versija
+Techninė diagnostinė informacija
+Informacija apie programėlės būseną strigties metu
+
+Ši informacija naudojama tik programėlės patikimumui, stabilumui ir našumui gerinti. Mes nenaudojame strigčių ataskaitų duomenų naudotojų asmeniniam identifikavimui.
 
 ### Šios privatumo politikos atnaujinimai  
 Kartais galime atnaujinti šią privatumo politiką. Naujausia versija visada bus pasiekiama programėlėje.
@@ -909,6 +1154,19 @@ Vacation Countdown Clock не е наменет за деца под 13 годи
 ### Услуги на трети страни  
 Оваа апликација користи услуги на трети страни како Google AdMob, кои имаат свои практики за приватност. За повеќе информации, видете ја [Google Privacy Policy](https://policies.google.com/privacy).
 
+### Известување за падови и дијагностика
+
+Driftwood Alarm Clock користи Firebase Crashlytics, услуга за известување за падови обезбедена од Google, за да помогне во идентификување на падови на апликацијата, проблеми со стабилноста и технички грешки.
+
+Извештаите за падови може да вклучуваат:
+
+Тип на уред и верзија на оперативниот систем
+Верзија на апликацијата
+Технички дијагностички информации
+Информации поврзани со состојбата на апликацијата во моментот на падот
+
+Овие информации се користат исклучиво за подобрување на доверливоста, стабилноста и перформансите на апликацијата. Не ги користиме податоците од извештаите за падови за лично идентификување на корисниците.
+
 ### Ажурирања на оваа политика за приватност  
 Понекогаш можеме да ја ажурираме оваа политика за приватност. Најновата верзија секогаш ќе биде достапна во апликацијата.
 
@@ -949,6 +1207,19 @@ Vacation Countdown Clock er ikke ment for barn under 13 år, og vi samler ikke b
 
 ### Tjenester fra tredjepart  
 Denne appen bruker tredjepartstjenester som Google AdMob, som har sine egne retningslinjer for personvern. For mer informasjon, se [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Krasjrapportering og diagnostikk
+
+Driftwood Alarm Clock bruker Firebase Crashlytics, en krasjrapporteringstjeneste levert av Google, for å hjelpe med å identifisere appkrasj, stabilitetsproblemer og tekniske feil.
+
+Krasjrapporter kan inkludere:
+
+Enhetstype og operativsystemversjon
+Appversjon
+Teknisk diagnostisk informasjon
+Informasjon relatert til appens tilstand på tidspunktet for krasjet
+
+Denne informasjonen brukes kun for å forbedre appens pålitelighet, stabilitet og ytelse. Vi bruker ikke krasjrapportdata til å identifisere brukere personlig.
 
 ### Oppdateringer av denne personvernpolicyen  
 Vi kan oppdatere denne personvernpolicyen fra tid til annen. Den nyeste versjonen vil alltid være tilgjengelig i appen.
@@ -994,6 +1265,19 @@ Vacation Countdown Clock is niet bedoeld voor kinderen onder de 13 jaar en wij v
 **Diensten van derden**  
 Deze app gebruikt diensten van derden zoals Google AdMob, die hun eigen privacypraktijken hebben. Meer informatie: [Google Privacy Policy](https://policies.google.com/privacy)
 
+**Crashrapportage en diagnostiek**
+
+Driftwood Alarm Clock gebruikt Firebase Crashlytics, een crashrapportageservice van Google, om appcrashes, stabiliteitsproblemen en technische fouten te helpen identificeren.
+
+Crashrapporten kunnen het volgende bevatten:
+
+Type apparaat en versie van het besturingssysteem
+Appversie
+Technische diagnostische informatie
+Informatie over de status van de app op het moment van de crash
+
+Deze informatie wordt uitsluitend gebruikt om de betrouwbaarheid, stabiliteit en prestaties van de app te verbeteren. Wij gebruiken crashrapportgegevens niet om gebruikers persoonlijk te identificeren.
+
 **Updates van dit privacybeleid**  
 We kunnen dit privacybeleid van tijd tot tijd bijwerken. De nieuwste versie is altijd toegankelijk in de app.
 
@@ -1037,6 +1321,19 @@ Vacation Countdown Clock nie jest przeznaczony dla dzieci poniżej 13 roku życi
 
 **Usługi osób trzecich**  
 Aplikacja korzysta z usług osób trzecich, takich jak Google AdMob, które mają własne zasady prywatności. Więcej informacji: [Google Privacy Policy](https://policies.google.com/privacy)
+
+**Raportowanie awarii i diagnostyka**
+
+Driftwood Alarm Clock korzysta z Firebase Crashlytics, usługi raportowania awarii dostarczanej przez Google, aby pomagać w identyfikowaniu awarii aplikacji, problemów ze stabilnością i błędów technicznych.
+
+Raporty o awariach mogą obejmować:
+
+Typ urządzenia i wersję systemu operacyjnego
+Wersję aplikacji
+Techniczne informacje diagnostyczne
+Informacje związane ze stanem aplikacji w momencie awarii
+
+Informacje te są wykorzystywane wyłącznie do poprawy niezawodności, stabilności i wydajności aplikacji. Nie używamy danych z raportów o awariach do osobistej identyfikacji użytkowników.
 
 **Aktualizacje polityki prywatności**  
 Polityka prywatności może być od czasu do czasu aktualizowana. Najnowsza wersja zawsze jest dostępna w aplikacji.
@@ -1082,6 +1379,19 @@ O Vacation Countdown Clock não se destina a crianças menores de 13 anos, e nã
 **Serviços de Terceiros**  
 Este app usa serviços de terceiros como o Google AdMob, que possuem suas próprias políticas de privacidade. Mais informações: [Google Privacy Policy](https://policies.google.com/privacy)
 
+**Relatórios de falhas e diagnósticos**
+
+O Driftwood Alarm Clock utiliza o Firebase Crashlytics, um serviço de relatórios de falhas fornecido pela Google, para ajudar a identificar falhas da aplicação, problemas de estabilidade e erros técnicos.
+
+Os relatórios de falhas podem incluir:
+
+Tipo de dispositivo e versão do sistema operativo
+Versão da aplicação
+Informações técnicas de diagnóstico
+Informações relacionadas com o estado da aplicação no momento da falha
+
+Estas informações são utilizadas exclusivamente para melhorar a fiabilidade, estabilidade e desempenho da aplicação. Não utilizamos os dados de relatórios de falhas para identificar pessoalmente os utilizadores.
+
 **Atualizações da Política**  
 Podemos atualizar esta política de tempos em tempos. A versão mais recente estará sempre disponível no app.
 
@@ -1125,6 +1435,19 @@ Ceasul deșteptător de Crăciun nu este destinat copiilor sub 13 ani și nu col
 
 **Servicii terțe**  
 Această aplicație utilizează servicii terțe precum Google AdMob, care au propriile politici de confidențialitate. Mai multe informații: [Google Privacy Policy](https://policies.google.com/privacy)
+
+**Raportare a blocărilor și diagnosticare**
+
+Driftwood Alarm Clock utilizează Firebase Crashlytics, un serviciu de raportare a blocărilor furnizat de Google, pentru a ajuta la identificarea blocărilor aplicației, problemelor de stabilitate și erorilor tehnice.
+
+Rapoartele de blocare pot include:
+
+Tipul dispozitivului și versiunea sistemului de operare
+Versiunea aplicației
+Informații tehnice de diagnosticare
+Informații legate de starea aplicației în momentul blocării
+
+Aceste informații sunt utilizate exclusiv pentru a îmbunătăți fiabilitatea, stabilitatea și performanța aplicației. Nu folosim datele din rapoartele de blocare pentru a identifica personal utilizatorii.
 
 **Actualizări ale Politicii de Confidențialitate**  
 Această politică poate fi actualizată ocazional. Versiunea cea mai recentă va fi întotdeauna disponibilă în aplicație.
@@ -1170,6 +1493,19 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 **Сторонние сервисы**  
 Приложение использует сторонние сервисы, такие как Google AdMob, которые имеют собственные политики конфиденциальности. Подробнее: [Google Privacy Policy](https://policies.google.com/privacy)
 
+**Отчёты о сбоях и диагностика**
+
+Driftwood Alarm Clock использует Firebase Crashlytics — сервис отчётов о сбоях, предоставляемый Google, — чтобы помогать выявлять сбои приложения, проблемы со стабильностью и технические ошибки.
+
+Отчёты о сбоях могут включать:
+
+Тип устройства и версию операционной системы
+Версию приложения
+Техническую диагностическую информацию
+Информацию о состоянии приложения на момент сбоя
+
+Эта информация используется исключительно для повышения надёжности, стабильности и производительности приложения. Мы не используем данные отчётов о сбоях для личной идентификации пользователей.
+
 **Обновления Политики**  
 Политика конфиденциальности может периодически обновляться. Последняя версия всегда доступна в приложении.
 
@@ -1210,6 +1546,19 @@ Vacation Countdown Clock nie je určený pre deti mladšie ako 13 rokov a vedome
 
 ### Služby tretích strán  
 Táto aplikácia používa služby tretích strán, ako je Google AdMob, ktoré majú vlastné zásady ochrany osobných údajov. Pre viac informácií si pozrite [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Hlásenie zlyhaní a diagnostika
+
+Driftwood Alarm Clock používa Firebase Crashlytics, službu na hlásenie zlyhaní poskytovanú spoločnosťou Google, na pomoc pri identifikácii zlyhaní aplikácie, problémov so stabilitou a technických chýb.
+
+Hlásenia o zlyhaní môžu obsahovať:
+
+Typ zariadenia a verziu operačného systému
+Verziu aplikácie
+Technické diagnostické informácie
+Informácie súvisiace so stavom aplikácie v čase zlyhania
+
+Tieto informácie sa používajú výlučne na zlepšenie spoľahlivosti, stability a výkonu aplikácie. Údaje z hlásení o zlyhaní nepoužívame na osobnú identifikáciu používateľov.
 
 ### Aktualizácie týchto zásad ochrany osobných údajov  
 Tieto zásady ochrany osobných údajov môžeme príležitostne aktualizovať. Najnovšia verzia bude vždy dostupná v aplikácii.
@@ -1252,6 +1601,19 @@ Vacation Countdown Clock ni namenjen otrokom, mlajšim od 13 let, in zavestno ne
 ### Storitve tretjih oseb  
 Ta aplikacija uporablja storitve tretjih oseb, kot je Google AdMob, ki imajo svoje lastne prakse zasebnosti. Za več informacij si oglejte [Google Privacy Policy](https://policies.google.com/privacy).
 
+### Poročanje o zrušitvah in diagnostika
+
+Driftwood Alarm Clock uporablja Firebase Crashlytics, storitev za poročanje o zrušitvah, ki jo zagotavlja Google, za pomoč pri prepoznavanju zrušitev aplikacije, težav s stabilnostjo in tehničnih napak.
+
+Poročila o zrušitvah lahko vključujejo:
+
+Vrsto naprave in različico operacijskega sistema
+Različico aplikacije
+Tehnične diagnostične informacije
+Informacije, povezane s stanjem aplikacije v času zrušitve
+
+Te informacije se uporabljajo izključno za izboljšanje zanesljivosti, stabilnosti in delovanja aplikacije. Podatkov iz poročil o zrušitvah ne uporabljamo za osebno identifikacijo uporabnikov.
+
 ### Posodobitve te politike zasebnosti  
 To politiko zasebnosti bomo občasno posodobili. Najnovejša različica bo vedno dostopna v aplikaciji.
 
@@ -1292,6 +1654,19 @@ Vacation Countdown Clock är inte avsedd för barn under 13 år, och vi samlar i
 
 ### Tjänster från tredje part  
 Denna app använder tredjepartstjänster såsom Google AdMob, som har sina egna sekretessrutiner. För mer information, se [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Kraschrapportering och diagnostik
+
+Driftwood Alarm Clock använder Firebase Crashlytics, en tjänst för kraschrapportering från Google, för att hjälpa till att identifiera appkrascher, stabilitetsproblem och tekniska fel.
+
+Kraschrapporter kan innehålla:
+
+Enhetstyp och operativsystemversion
+Appversion
+Teknisk diagnostisk information
+Information relaterad till appens tillstånd vid tidpunkten för kraschen
+
+Denna information används endast för att förbättra appens tillförlitlighet, stabilitet och prestanda. Vi använder inte kraschrapporteringsdata för att personligen identifiera användare.
 
 ### Uppdateringar av denna integritetspolicy  
 Vi kan uppdatera denna integritetspolicy ibland. Den senaste versionen kommer alltid vara tillgänglig i appen.
@@ -1336,6 +1711,19 @@ Vacation Countdown Clock не призначений для дітей до 13 �
 
 **Сторонні сервіси**  
 Додаток використовує сторонні сервіси, такі як Google AdMob, які мають власну політику конфіденційності. Детальніше: [Google Privacy Policy](https://policies.google.com/privacy)
+
+**Звіти про збої та діагностика**
+
+Driftwood Alarm Clock використовує Firebase Crashlytics — сервіс звітів про збої, наданий Google, — щоб допомагати виявляти збої застосунку, проблеми зі стабільністю та технічні помилки.
+
+Звіти про збої можуть містити:
+
+Тип пристрою та версію операційної системи
+Версію застосунку
+Технічну діагностичну інформацію
+Інформацію про стан застосунку на момент збою
+
+Ця інформація використовується виключно для покращення надійності, стабільності та продуктивності застосунку. Ми не використовуємо дані звітів про збої для особистої ідентифікації користувачів.
 
 **Оновлення Політики**  
 Політика конфіденційності може час від часу оновлюватися. Остання версія завжди буде доступна в додатку.
